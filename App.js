@@ -4,11 +4,8 @@ import Navegacion from './Navegacion';
 
 export default function App () {
 
-return (
+  return (
+   <Navegacion/>
 
-  <Navegacion/>
-
-);
-
-
+  );
 }
